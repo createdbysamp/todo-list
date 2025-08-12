@@ -5,8 +5,8 @@ This project is a todo list with lots of functionality - a checkbox toggle funct
 ## Features
 
 add task
-![alt text](/to-do-list/public/add-task-2.png)
-![alt text](/to-do-list/public/add-task-1.png)
+![alt text](public/add-task-2.png)
+![alt text](public/add-task-1.png)
 
 delete task
 ![alt text](public/delete-task.png)
